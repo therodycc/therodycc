@@ -1,5 +1,3 @@
-![image](https://github.com/therodycc/therodycc/assets/72664020/8bb3bf54-86c9-42e7-b22a-4db2a4ee7559)
- 
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
